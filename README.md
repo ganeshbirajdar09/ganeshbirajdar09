@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ganesh Birajdar
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on React, MERN Stack
+- 🎯 Currently working on React, MERN stack
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Data Structures & Algorithms
+- 💞️ I’m looking to collaborate on Full Stack Web Development
 - 📫 How to reach me -
 
    Mail - ganesh.birajdar.1930@gmail.com
