@@ -8,7 +8,7 @@
    Mail - ganesh.birajdar.1930@gmail.com
    LinkedIn - www.linkedin.com/in/ganeshbirajdar09 -->
 
-<h1 align="center">Hey There , I'm Ganesh Birajdar</h1>
+<h1 align="center">Hi👋, I'm Ganesh Birajdar</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
@@ -30,7 +30,6 @@
 <a href = "https://www.instagram.com/ganeshb_009/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbirajdar09&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbirajdar09" /> </p>
 
 ## 🚀 Languages and Tools:
 
