@@ -8,7 +8,7 @@
    Mail - ganesh.birajdar.1930@gmail.com
    LinkedIn - www.linkedin.com/in/ganeshbirajdar09 -->
 
-<h1 align="center">Hi👋, I'm Ganesh Birajdar</h1>
+<h1 align="center">Hi👋, I'm Ganesh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## About Me
