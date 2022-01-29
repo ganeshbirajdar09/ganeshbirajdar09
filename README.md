@@ -19,7 +19,7 @@
 
 - I’m looking to collaborate on **Full Stack Development**
 
-- You can reach me at - ganesh.birajdar.1930@gmail.com
+- You can reach me at ganesh.birajdar.1930@gmail.com
  
   
 ## Connect with me:
