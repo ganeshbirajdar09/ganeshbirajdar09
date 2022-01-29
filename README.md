@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m Ganesh
--  Currently working on React, MERN stack
--  I’m interested in Full Stack Web Development
+- Currently working on React, MERN stack
+- I’m interested in Full Stack Web Development
 -  I’m currently learning Data Structures & Algorithms
 -  I’m looking to collaborate on Full Stack Web Development
 -  How to reach me -
@@ -13,13 +13,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **React, MERN stack.**
+- I’m currently working on **React, MERN stack.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
+- I’m looking to collaborate on **Full Stack Development**
 
-- 📫 How to reach me - ganesh.birajdar.1930@gmail.com
+- How to reach me - ganesh.birajdar.1930@gmail.com
  
   
 ## Connect with me:
