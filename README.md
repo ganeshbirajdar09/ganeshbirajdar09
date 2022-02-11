@@ -30,10 +30,7 @@
 <a href = "https://www.instagram.com/ganeshb_009/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/ganeshbirajdar09/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbirajdar09&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbirajdar09" /> </p>
 
 ## 🚀 Languages and Tools:
 
