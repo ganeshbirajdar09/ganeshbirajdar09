@@ -8,15 +8,15 @@
    Mail - ganesh.birajdar.1930@gmail.com
    LinkedIn - www.linkedin.com/in/ganeshbirajdar09 -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+Myself+Ganesh+Birajdar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+ -->
 
-
-<!-- <h1 align="center">Hi👋, I'm Ganesh</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
+ <h1 align="center">Hi👋, I'm Ganesh</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3> 
 
 ## About Me
 
@@ -91,6 +91,12 @@
 
   <br/>
     <a href="https://github.com/ganeshbirajdar09/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+   [![Stats](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+    
+    
   <a href="https://github.com/ganeshbirajdar09/github-readme-stats"><img alt="Ganesh Birajdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbirajdar09&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
