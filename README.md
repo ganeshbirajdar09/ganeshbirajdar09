@@ -1,23 +1,7 @@
-<!-- - 👋 Hi, I’m Ganesh
-- Currently working on React, MERN stack
-- I’m interested in Full Stack Web Development
--  I’m currently learning Data Structures & Algorithms
--  I’m looking to collaborate on Full Stack Web Development
--  How to reach me -
-
-   Mail - ganesh.birajdar.1930@gmail.com
-   LinkedIn - www.linkedin.com/in/ganeshbirajdar09 -->
-
-<!-- <h1 align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+Myself+Ganesh+Birajdar....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
- -->
 
 <!--  <h1 align="center">Hi👋, I'm Ganesh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>  -->
-<h1> Hello I am Ganesh <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello, I'm Ganesh <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -25,12 +9,11 @@
 ## About Me
 
 - I’m currently working on **React, MERN stack.**
-
 - I’m currently learning **Data Structures and Algorithms.**
-
 - I’m looking to collaborate on **Full Stack Development**
-
 - You can reach me at ganesh.birajdar.1930@gmail.com
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbirajdar09&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbirajdar09" /> </p>
  
   
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
@@ -45,7 +28,7 @@
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbirajdar09&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbirajdar09" /> </p> -->
 
-## 🚀 Languages and Tools:
+## 🚀 Technologies:
 
 
 <p align="left"> 
