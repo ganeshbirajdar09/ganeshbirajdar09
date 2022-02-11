@@ -30,6 +30,10 @@
 <a href = "https://www.instagram.com/ganeshb_009/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 ## 🚀 Languages and Tools:
 
