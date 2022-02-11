@@ -92,7 +92,7 @@
   <br/>
     <a href="https://github.com/ganeshbirajdar09/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
-   [![Stats](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+   [![Stats](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
     
