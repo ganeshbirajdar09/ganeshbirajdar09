@@ -90,11 +90,11 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ganeshbirajdar09/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--     <a href="https://github.com/ganeshbirajdar09/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
     
    [![Stats](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
     
     
   <a href="https://github.com/ganeshbirajdar09/github-readme-stats"><img alt="Ganesh Birajdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshbirajdar09&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
