@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🛠 &nbsp;Currently building Web apps **React, MERN stack.**\
+🛠 &nbsp;Currently building Web apps in **React, MERN stack.**\
 🌱 &nbsp;I’m on track for learning **Data Structures and Algorithms.**\
 🤝 &nbsp;I’m looking to collaborate on **Full Stack Development**\
 💬 &nbsp;Feel free to reach me out at ganesh.birajdar.1930@gmail.com\
