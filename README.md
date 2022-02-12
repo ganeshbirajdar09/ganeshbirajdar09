@@ -11,7 +11,7 @@
 🛠 &nbsp;Currently building Web apps in **React, MERN stack.**\
 🌱 &nbsp;I’m on track for learning **Data Structures and Algorithms.**\
 🤝 &nbsp;I’m looking to collaborate on **Full Stack Development**\
-💬 &nbsp;Feel free to reach me out at ganesh.birajdar.1930@gmail.com\
+💬 &nbsp;Feel free to reach me out at **ganesh.birajdar.1930@gmail.com**
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbirajdar09&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbirajdar09" /> </p>
  
