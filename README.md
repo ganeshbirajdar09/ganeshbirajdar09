@@ -27,7 +27,7 @@
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbirajdar09&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbirajdar09" /> </p> -->
 
-## 🚀 Technologies:
+### 🛠 &nbsp;Technogies
 
 
 <p align="left"> 
@@ -71,11 +71,7 @@
 <!-- [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<!-- <p align="center">
-    <a href="https://github.com/ganeshbirajdar09/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ganesh Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbirajdar09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> -->
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -85,7 +81,11 @@
 </a>
 </p>
 
-
+<p align="center">
+    <a href="https://github.com/ganeshbirajdar09/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ganesh Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbirajdar09&theme=algolia&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <!---
 ganeshbirajdar09/ganeshbirajdar09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
