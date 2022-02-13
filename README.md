@@ -82,7 +82,7 @@
   <br/>
 <!--     <a href="https://github.com/ganeshbirajdar09/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
     
-   [![Stats](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=black-ice)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+   [![Stats](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=black)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   
 
     
