@@ -68,7 +68,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ganesh Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbirajdar09&theme=algolia&hide_border=true&stroke=0000"/>
     </a>
 </p>
-
+<p align="left">
+ https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=onedark
+ </p>
 
 <!---
 ganeshbirajdar09/ganeshbirajdar09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
