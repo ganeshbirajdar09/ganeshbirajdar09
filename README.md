@@ -69,10 +69,10 @@
     </a>
 </p>
 
-<a href="https://github.com/ganeshbirajdar09/github-profile-trophy">
+<!-- <a href="https://github.com/ganeshbirajdar09/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&column=8&theme=onedark&no-frame=true"/>
 </a>
-
+ -->
 <!---
 ganeshbirajdar09/ganeshbirajdar09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
