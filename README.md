@@ -4,7 +4,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=B06FAC00&center=true&width=437&height=53&lines=Full+stack+web+developer;I+can+help+you+with+React%2FMERN;Currently+a+final+year+student;JavaScript+React+Node.js+Python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=B06FAC00&center=true&vCenter=true&width=437&height=53&lines=Full+stack+web+developer;I+can+help+you+with+React%2FMERN;Currently+a+final+year+student;JavaScript+React+Node.js+Python" alt="Typing SVG" /></a>
 
 <!--  <h1 align="center">Hi👋, I'm Ganesh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>  -->
