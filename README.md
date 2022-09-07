@@ -1,6 +1,5 @@
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000&lines=Full+stack+web+developer;I+can+help+you+with+React%2FMERN;Currently+a+final+year+student;JavaScript+React+Node.js+Python" alt="Typing SVG" /></a>
+
 
 <!--  <h1 align="center">Hi👋, I'm Ganesh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>  -->
