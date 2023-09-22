@@ -81,8 +81,7 @@
 <img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
 <img align="right" src="https://img.shields.io/badge/angular-%23DD0031.svg?&logo=angular&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/node.js-6DA55F?logo=node
-.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
 
 ## Education
 
