@@ -3,15 +3,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Full+Stack+Web+Developer;⛓️+Software+Engineer"alt="Currently Building Web Apps in Node & React">
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="200%">
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 - 🔗 I’m currently buidling Web Apps in React and Node 
 - 👐 I’m looking to contribute to open source
 - 🥅 2023 Goals: Explore more about JS Frameworks(Next,Nest,Bun )
 - ⚡ Fun fact: I consider myself as a Football Geek ( I'm a Madridista 🤍😤)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%">
+
 
 ## &nbsp;Connect with Me
 
