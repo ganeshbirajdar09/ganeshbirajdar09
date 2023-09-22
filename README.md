@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Full+Stack+Web+Developer;⛓️+Software+Engineer"alt="Currently Building Web Apps in Node & React">
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="200%">
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔗 I’m currently buidling Web Apps in React and Node 
@@ -11,7 +11,7 @@
 - 🥅 2023 Goals: Explore more about JS Frameworks(Next,Nest,Bun )
 - ⚡ Fun fact: I consider myself as a Football Geek ( I'm a Madridista 🤍😤)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%">
 
 ## &nbsp;Connect with Me
 
@@ -73,13 +73,12 @@
 </td><td valign="top" width="50%">
 
 
-
 </td></tr></table>
 
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/ganeshbirajdar09/ganeshbirajdar09/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
 
 <br>
 
