@@ -70,4 +70,26 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
+<details>
+  <summary><b>📃 Resume</summary>
 
+## Experience
+
+- 👨‍💻 **Associate Software Engineer Intern**\
+📆 Jan 2023 - June 2023\
+📍 **Coditas** - Pune, India
+<img align="right" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+<img align="right" src="https://img.shields.io/badge/angular-%23DD0031.svg?&logo=angular&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/node.js-6DA55F?logo=node
+.js&logoColor=white" />
+
+## Education
+
+- 📖 **Bachelor of Engineering**\
+📆 2019 - 2023\
+⚡Electronics & Telecommunication\
+🎯 **CGPA - 9** \
+📍 **AISSMS Institute of Information Technology**, Pune, India
+
+</details>
