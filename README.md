@@ -1,35 +1,32 @@
-
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Full+Stack+Web+Developer;⛓️+Software+Engineer"alt="Currently Building Web Apps in Node & React">
+<p>
+ <h1>Hello, I'm Ganesh 👋</h1>
+</p>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=28&center=false&vCenter=false&lines=Full+Stack+Web+Developer;Software+Engineer"alt="Currently Building Web Apps in Node & React">
 </p>
 
-## 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔗 I’m currently buidling Web Apps in React and Node 
-- 👐 I’m looking to contribute to open source
+- 🔗 I’m currently buidling Web Apps in **React and Node** . 
+- 👐 I’m looking to contribute to **open source** .
 - 🥅 2023 Goals: Explore more about JS Frameworks(Next,Nest,Bun )
 - ⚡ Fun fact: I consider myself as a Football Geek ( I'm a Madridista 🤍😤)
 
 
 
-## &nbsp;Connect with Me
+### 🌐&nbsp;Connect with Me
 
 <p align="left">
 <a target="_blank" rel="noopener noreferrer" href="mailto:ganeshbirajdar924@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href = "https://www.linkedin.com/in/ganeshbirajdar09"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href = "https://www.instagram.com/ganeshb_009/"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-
-
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=onedark" alt="ganesh" /></a> </p>
+
+
 
 
 ### 🛠 &nbsp;Technologies
-
-
 <p align="left"> 
-
-
  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer" ><img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;"></a>
    <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/0fad77ddd85292b8800107c5a51df2f64ff5126a0fe6dfa1eb7d4977032918e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652532306a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;"></a>
@@ -45,18 +42,20 @@
 
    
 </p>
-<br/>
 
+
+### 🏅 &nbsp;Github Achievements
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=onedark" alt="ganesh" /></a> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/william-monroy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ganeshbirajdar09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ganeshbirajdar09&layout=compact&langs_count=5&theme=algolia"/>
 </a>
 </p>
-
+<p align="center">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ganeshbirajdar09&layout=compact&langs_count=5&theme=algolia"/></p>
 <p align="center">
     <a href="https://github.com/ganeshbirajdar09/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ganesh Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbirajdar09&theme=algolia&hide_border=true&stroke=0000"/>
@@ -65,21 +64,9 @@
 
 ### ⚙️ Misc
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-
-</td><td valign="top" width="50%">
-
-
-</td></tr></table>
-
-<br>
-<br>
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" width="80%" />
 
 <img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
-
-<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
