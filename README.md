@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Full+Stack+Web+Developer;⛓️+Software+Engineer"alt="Currently Building Web Apps in Node & React">
 </p>
 
