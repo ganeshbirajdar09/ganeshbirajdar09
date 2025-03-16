@@ -56,7 +56,7 @@
 <p><img align="center" alt="Ganesh Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbirajdar09&theme=algolia&hide_border=true&stroke=0000"/>
 </p>
 <details>
- <summary><b><h2> 📃 My Resume</summary>
+ <summary>><h2> 📃 My Resume </h2></summary>
 
 ## Experience
 
