@@ -1,8 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">Ganesh</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://www.jio.com/platforms/">Jio Platforms Limited</a></strong> and formerly at  <strong><a href="https://coditas.com/">Coditas </a></strong></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbirajdar09&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbirajdar" /> </p>
-
 <h2>🤝 Connect with me</h2>
 <a target="_blank" rel="noopener noreferrer" href="mailto:ganeshbirajdar924@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/ganeshbirajdar09"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
@@ -56,7 +54,7 @@
 <p><img align="center" alt="Ganesh Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbirajdar09&theme=algolia&hide_border=true&stroke=0000"/>
 </p>
 <details>
- <summary>><h2> 📃 My Resume </h2></summary>
+ <summary><h2> 📃 My Resume </h2></summary>
 
 ## Experience
 
