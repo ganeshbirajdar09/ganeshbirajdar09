@@ -10,7 +10,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ganeshb_009"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="z-index:100" />
 <h2>⚡️ A Few Quick Facts </h2>
 <ul>
 <li>🔭 I’m currently helping <strong>JioBlackRock</strong> build an <strong>Asset</strong> & <strong>Wealth</strong> Management Platform.</li>
@@ -18,7 +18,7 @@
 <li>🎉 Fun Fact: I consider myself as a Football Geek ( I'm a <strong>Madridista</strong> 🤍😤)</li>
 </ul>
 
-
+<br>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="java" />
@@ -55,9 +55,7 @@
 </p>
 <p><img align="center" alt="Ganesh Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbirajdar09&theme=algolia&hide_border=true&stroke=0000"/>
 </p>
-
 <details>
-
  <summary><b><h2> 📃 My Resume</summary>
 
 ## Experience
