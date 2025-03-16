@@ -53,7 +53,7 @@
 
 ### ⚙️ Misc
 <p style="padding:0">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="80%" height="100px" /></p>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="80%" height="105px" /></p>
 
 <details>
  <summary><h2> 📃 My Resume </h2></summary>
