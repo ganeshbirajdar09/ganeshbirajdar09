@@ -7,8 +7,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/Ganesh31475"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/ganeshb_009"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
 
+<br>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="z-index:100" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" style="z-index: 100" />
 <h2>⚡️ A Few Quick Facts </h2>
 <ul>
 <li>🔭 I’m currently helping <strong>JioBlackRock</strong> build an <strong>Asset</strong> & <strong>Wealth</strong> Management Platform.</li>
@@ -38,11 +39,6 @@
 </p>
 
 
-
-### ⚙️ Misc
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" width="80%"/>
-
 ## 🏅 &nbsp;Github Achievements
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshbirajdar09&theme=onedark" alt="ganesh" /></a> </p>
 
@@ -53,12 +49,18 @@
 </p>
 <p><img align="center" alt="Ganesh Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshbirajdar09&theme=algolia&hide_border=true&stroke=0000"/>
 </p>
+
+
+### ⚙️ Misc
+<p style="padding:0">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="80%" height="100px" /></p>
+
 <details>
  <summary><h2> 📃 My Resume </h2></summary>
 
 ## Experience
 
-- 👨‍💻 **Software Development Engineer I**\
+- 👨‍💻 **Software Development Engineer I**\xx
 📆 Oct 2023 - Present\
 📍 **Jio Platform Llimited** - Mumbai, India<img align="right" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /><img align="right" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" /><img align="right" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" /><img align="right" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
 
@@ -74,3 +76,5 @@
 🎯 **CGPA - 9** \
 📍 **AISSMS Institute of Information Technology**, Pune, India
 </details>
+
+
